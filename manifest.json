@@ -1,0 +1,17 @@
+{
+  "name": "Ducky's Extension",
+  "version": "0.0.0",
+  "manifest_version": 1,
+  "author": "Ducky",
+  "homepage_url": "https://longstoryshort.app/characters/list/",
+  "icon": "/logo.png",
+  "description": "No description",
+  "action": {
+    "title": "Ducky",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 700,
+    "width": 375
+  },
+  "background_url": "/background.html"
+}
